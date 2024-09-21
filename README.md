@@ -4,7 +4,6 @@
 - 😎 I've already learnt and worked with C#, Unity, Git & Github.
 - 💞️ I’m looking to collaborate on development of mobile and video games.
 - 📫 You can reach me on:
-  Mobile Phone: +989357394473
   Gmail: Ansari.031013@gmail.com
 - ⚡ Fun fact: ...
 
